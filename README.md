@@ -42,14 +42,18 @@ I enjoy working with **Unreal Engine, Blender, JavaScript, PHP, and Python** and
 ## 🚀 Featured Projects
 
 ### 📱 Device Deck
-A mobile shop management system designed to manage products, inventory, sales, and shop operations.
+A mobile shop management system for managing products, inventory, and shop operations.
 
-**Technologies:** PHP, MySQL, HTML, CSS, Bootstrap
+**Technologies:** PHP, MySQL, HTML, CSS, Bootstrap, JavaScript
+
+🔗 [View Project](https://github.com/karankumarO3/device_deck)
 
 ### 📚 LibSystem
-A library management system designed to manage books, users, borrowing, and library records.
+A library management system for managing books, users, and library records.
 
-**Technologies:** PHP, MySQL, HTML, CSS, Bootstrap
+**Technologies:** PHP, MySQL, HTML, CSS, Bootstrap, JavaScript
+
+🔗 [View Project](https://github.com/karankumarO3/libsystem)
 
 ---
 
